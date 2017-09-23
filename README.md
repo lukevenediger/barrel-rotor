@@ -41,6 +41,7 @@ is the only one I know and it's served my needs so far. I'm open to moving it in
 * 28byj-48
 * 5mm flat-top UV LED
 * Two 5V relays
+* Stepper connector socket with part number: B5B-XH-A(LF)(SN) https://www.digikey.co.za/product-detail/en/jst-sales-america-inc/B5B-XH-A-LF-SN/455-2270-ND/1530483
 
 ## License
 This project is underpinned by the CERN Open Hardware License v1.2. Please see the LICENSE file in the root of this repository for more information. Additionaly, you can find more information about the license and the Open Hardware movement here:
